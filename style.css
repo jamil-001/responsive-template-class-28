@@ -1,0 +1,162 @@
+body,h1,h2,h3,h4,h5,h6,p,span,a{
+    font-family: 'Roboto', sans-serif;
+}
+.same-bg{
+    background:#f9f9ff;
+}
+body{
+    overflow-x: hidden;
+}
+.jon-header img {
+    width: 105px;
+}
+.jon-menu .nav-link {
+    font-size: 16px;
+    padding: 0 14px !important;
+    font-weight: 400;
+}
+/* banner section start */
+.banner-text-left{
+    margin-top: 40px;
+}
+.banner-text-left h4{
+    font-weight: 400;
+    font-size: 20px;
+}
+.banner-text-left h2{
+    font-weight: 500;
+    color: #343a40;
+}
+.banner-text-left p{
+    font-weight: 400;
+    font-size: 16px;
+}
+.banner-text-left .btn {
+    background: #8490ff;
+    border: 0;
+}
+/* .img-bg img{
+
+width: 450px;
+} */
+/* personal section start */
+
+.personal-section{}
+.img-personal{}
+.img-personal img{}
+.personal-text h5 {
+    font-size: 18px !important;
+    font-weight: 400;
+}
+.personal-text h2 {
+    color: #343a40;
+    font-weight: 400;
+}
+.personal-text p {
+    font-size: 14px;
+}
+.personal-text .btn {
+    background: #8490ff;
+    font-weight: 300;
+    border: 0;
+}
+/* personal section end */
+/* number couter section  start css */
+.number-counter{
+    background: #8490ff;
+}
+.number-counter-item {}
+.number-counter-item h2 {
+    font-weight: 600;
+}
+.number-counter-item p {
+    font-weight: 300;
+}
+/* number couter section  end css */
+/* economy wrap section start */
+.economy-wrap {
+    padding: 16px 0 32px 0px;
+    background: #fff;
+}
+.small-div{
+ width: 100px;
+ height: 100px;
+ border-radius: 50%;
+background: #f9f9ff;
+
+
+}
+.small-div h2 {
+    padding-top: 32px;
+}
+.economy-wrap h6 {
+    font-weight: 500;
+    font-size: 19px;
+}
+.economy-wrap h5 {
+    font-weight: 400;
+    font-size: 16px;
+}
+.economy-wrap .btn {
+    color: #667ce0;
+    background: transparent;
+    border: 1px solid #667ce0;
+    padding: 13px 42px;
+    font-weight: 400;
+    font-size: 20px;
+}
+/* service section start */
+.service-section {
+    padding-top: 122px;
+    padding-bottom: 62px;
+}
+.service-section .card{}
+.service-section .card .card-title {
+    font-weight: 500;
+    font-size: 28px;
+}
+.service-section .card .card-subtitle {
+    font-weight: 400;
+    font-size: 17px;
+}
+.service-section .card .card-text {
+    width: 200px;
+}
+.service-section .card img {
+    width: 100px;
+    margin-left: 15px;
+    margin-top: -68px;
+}
+/* service section end */
+/* form section start */
+.form-section{}
+.form-section .card{
+    padding: 30px;
+}
+.card-button .btn {
+    background: #17a2b8;
+    border: 0;
+    color: white;
+    border: 1px solid #17a2b8;
+    padding: 10px 27px;
+    font-size: 17px;
+}
+
+.get-wrap{
+    margin-top: 150px;
+    margin-left: 54px;
+}
+.get-wrap h4{
+    margin-bottom: 20px;
+    font-size: 27px;
+    font-weight: 400;
+}
+.get-wrap p{
+    font-weight: 400;
+    font-size: 18px;
+}
+/* form section end */
+footer{
+    background:#04091e ;
+    color: white;
+}

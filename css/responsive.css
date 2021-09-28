@@ -1,0 +1,66 @@
+@media (max-width:1400px) {
+
+}
+@media (max-width:1200px) {
+    
+}
+@media (max-width:992px) {
+    .img-personal {
+        margin-top: 63px;
+    }
+    .personal-text {
+        margin-top: 25px !important;
+    }
+    .service-section .card .card-text {
+        width: 133px;
+        font-size: 12px;
+    }
+    
+}
+@media (max-width:768px) {
+    .banner-text-left p {
+        font-size: 15px;
+    }
+    .banner-text-left h2 {
+        font-size: 17px;
+    }
+    .banner-text-left h4 {
+        font-size: 18px;
+    }
+    .w-75 {
+        width: 100% !important;
+    }
+    .img-bg {
+        margin-top: 106px;
+        margin-left: 40px;
+    }
+    .personal-text .btn {
+        font-size: 15px;
+    }.personal-text p {
+        font-size: 11px;
+    }
+    .personal-text h2 {
+        font-size: 19px;
+    }
+    .personal-text h5 {
+        font-size: 14px !important;
+    }
+    .service-section .card {
+        margin-bottom: 115px;
+    }
+    .get-wrap {
+        margin-top: 40px;
+        /* margin-left: 54px; */
+        margin-bottom: 36px;
+    }
+}
+@media (max-width:556px) {
+    
+    .service-section .card img {
+        border-radius: 50%;
+        margin: auto;
+    }
+}
+@media (max-width:442px) {
+    
+}
